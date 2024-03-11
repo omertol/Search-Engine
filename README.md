@@ -15,9 +15,9 @@ The goal of this project is to develop a search engine that can efficiently inde
 - Performance optimization for efficient searching
 
 ### Accessing the Project
-The external IP address of the VM: 
+The external IP address of the VM: [IP](http://34.16.109.155:8080)
 you can access the search engine by activating it at
-IP/search?query=YOUR_QUERY
+[IP](http://34.16.109.155:8080/search?query=YOUR+QUERY)
 
 Link to our Google Cloud Storage bucket:
 https://console.cloud.google.com/storage/browser/irproj_26051997
