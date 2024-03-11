@@ -25,7 +25,9 @@ We aim to optimize various metrics such as MAP@5, F1@30, while minimizing the ov
 ### Accessing the Project
 
 The external IP address of the VM: http://34.16.109.155:8080
-you can access the search engine by activating it at
+
+You can access the search engine by activating it at
+
 http://34.16.109.155:8080/search?query=YOUR+QUERY
 
 Link to our Google Cloud Storage bucket:
