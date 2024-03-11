@@ -1,19 +1,20 @@
-# Information Retrieval course - Search Engine for Wikipedia Dump
+  Information Retrieval course
+# Search Engine for Wikipedia Dump
 
 This is our final project for the Information Retrieval course at Ben Gurion University. It aim to build a search engine specifically designed to index and retrieve information from a Wikipedia dump.
 
-## Project Overview
+### Project Overview
 
 The goal of this project is to develop a search engine that can efficiently index and search through the vast amount of information available in the Wikipedia dump. By implementing various information retrieval techniques, we aim to create a robust and effective search engine that provides relevant results to user queries.
 
-## Features
+### Features
 
 - Indexing of Wikipedia dump data
 - Query processing and retrieval of relevant documents
 - Ranking algorithms to prioritize search results
 - Performance optimization for efficient searching
 
-## Accessing the Project
+### Accessing the Project
 The external IP address of the VM: 
 you can access the search engine by activating it at
 IP/search?query=YOUR_QUERY
@@ -21,7 +22,7 @@ IP/search?query=YOUR_QUERY
 Link to our Google Cloud Storage bucket:
 
 
-## Contact
+### Contact
 
 If you have any questions or suggestions regarding the project, feel free to contact us:
 - Stav Farajun: [stavfar@post.bgu.ac.il](stavfar@post.bgu.ac.il)
