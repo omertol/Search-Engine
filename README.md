@@ -20,7 +20,7 @@ you can access the search engine by activating it at
 IP/search?query=YOUR_QUERY
 
 Link to our Google Cloud Storage bucket:
-
+https://console.cloud.google.com/storage/browser/irproj_26051997
 
 ### Contact
 
